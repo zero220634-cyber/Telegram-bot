@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/cron", "destination": "/cron.js" }
+  ]
+}
